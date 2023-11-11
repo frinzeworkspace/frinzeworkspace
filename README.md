@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Entrepeneur/Creator)`**
 
-I'm an independent full-stack developer and entrepeneur, shaping my digital world step by step. I progress through careful planning and design for each coding project. Culminating practical application of code to address real-life problems.
+I'm an independent full-stack developer and a creator, shaping my digital world step by step. I progress through careful planning and design for each coding project. Culminating practical application of code to address real-life problems.
 
 ![Samurai Shamploo](https://github.com/frinzeworkspace/frinzeworkspace/assets/63950629/025cb1c0-7a82-4201-b6b4-c920ffcaed1f)
 
