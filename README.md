@@ -4,9 +4,7 @@
 
 I'm an independent full-stack developer and entrepeneur, shaping my digital world step by step. I progress through careful planning and design for each coding project. Culminating practical application of code to address real-life problems.
 
-
-![aesthetic-typing](https://github.com/frinzeworkspace/frinzeworkspace/assets/63950629/fd74a6fb-d6de-417b-b42e-9a96cfd9da38)
-
+![Samurai Shamploo](https://github.com/frinzeworkspace/frinzeworkspace/assets/63950629/025cb1c0-7a82-4201-b6b4-c920ffcaed1f)
 
 ---
 
