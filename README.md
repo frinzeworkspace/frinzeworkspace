@@ -4,6 +4,8 @@
 
 I'm an independent full-stack developer and content creator, shaping my digital world step by step. Each coding project is meticulously crafted, starting with planning and design and culminating in the practical application of code to solve real-life problems.
 
+![Samurai Shamploo](https://github.com/frinzeworkspace/frinzeworkspace/assets/63950629/a13c5735-5e8e-448b-8b3b-6655730acd25)
+
 ---
 
 ### 🧰 Languages and Tools
