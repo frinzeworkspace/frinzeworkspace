@@ -4,7 +4,7 @@
 
 I'm an independent full-stack developer and content creator, shaping my digital world step by step. Each coding project is meticulously crafted, starting with planning, design and culminating in the practical application of code to solve real-life problems.
 
-![aesthetic-typing](https://github.com/frinzeworkspace/frinzeworkspace/assets/63950629/795d1980-7b03-478b-a1ab-eca87f168ef8)
+![5e17e41a2778c39f9abee9fc19b67cc7](https://github.com/frinzeworkspace/frinzeworkspace/assets/63950629/9db6d383-5500-47b8-84b2-e949937e275b)
 
 ---
 
