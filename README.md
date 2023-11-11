@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Entrepeneur/Creator)`**
 
-I'm an independent full-stack developer and a creator, shaping my digital world step by step. I progress through careful planning and design for each coding project. Culminating practical application of code to address real-life problems.
+I'm an independent full-stack developer and a business owner, shaping my digital world step by step. I progress through careful planning and design for each coding project. Culminating practical application of code to address real-life problems.
 
 ![29129842108c46684a26c427741db074](https://github.com/frinzeworkspace/frinzeworkspace/assets/63950629/82184774-7d2f-4bea-b2b1-cdfbaf6800f9)
 
