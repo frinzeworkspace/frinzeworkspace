@@ -4,7 +4,8 @@
 
 I'm an independent full-stack developer and a business owner, shaping my digital world step by step. I progress through careful planning and design for each coding project. Culminating practical application of code to address real-life problems.
 
-![29129842108c46684a26c427741db074](https://github.com/frinzeworkspace/frinzeworkspace/assets/63950629/82184774-7d2f-4bea-b2b1-cdfbaf6800f9)
+![key-click-typing-1](https://github.com/frinzeworkspace/frinzeworkspace/assets/63950629/b3b48793-ade1-47b1-bdf5-f121a2f9f979)
+
 
 ---
 
