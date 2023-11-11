@@ -1,4 +1,4 @@
-# 💥 Frinze Matabalan
+# 💥 Goiffry Frinze Matabalan
 
 **`Digital Craftsman (Developer/Entrepeneur/Creator)`**
 
