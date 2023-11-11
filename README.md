@@ -5,7 +5,8 @@
 I'm an independent full-stack developer and a business owner, shaping my digital world step by step. I progress through careful planning and design for each coding project. Culminating practical application of code to address real-life problems.
 
 
-![anime-keyboard-typing-keyboard-anime](https://github.com/frinzeworkspace/frinzeworkspace/assets/63950629/f4e3cecf-d12a-4d62-b8dd-100078903305)
+![tumblr_psdjxj70bl1t9q05y_500](https://github.com/frinzeworkspace/frinzeworkspace/assets/63950629/a0aeb3e1-184b-4a94-acde-36673a906936)
+
 
 
 ---
