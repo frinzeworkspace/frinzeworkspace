@@ -4,8 +4,6 @@
 
 I'm an independent full-stack developer and content creator, shaping my digital world step by step. Each coding project is meticulously crafted, starting with planning and design and culminating in the practical application of code to solve real-life problems.
 
-![Uploading Samurai Shamploo.gif…]()
-
 ---
 
 ### 🧰 Languages and Tools
