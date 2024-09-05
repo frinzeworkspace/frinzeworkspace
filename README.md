@@ -36,11 +36,7 @@ I'm an independent full-stack developer and a business owner, shaping my digital
 #
 <details>
  <summary><h3>👨‍💻 Frinze </h3></summary>
- Hi, I am frinze welcome to my guthub repo 
-
-<br />
-
- #
+ Languages and Tools
  
 <br />
  
