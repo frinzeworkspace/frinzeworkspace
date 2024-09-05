@@ -36,7 +36,7 @@ I'm an independent full-stack developer and a business owner, shaping my digital
 #
 <details>
  <summary><h3>👨‍💻 Frinze </h3></summary>
- Hi I am Frinze welcome to my github repo
+ Hi welcome to my github repo
  
 <br />
 
