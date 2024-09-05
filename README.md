@@ -40,7 +40,7 @@ I'm an independent full-stack developer and a business owner, shaping my digital
  
 <br />
 
- #
+
  
 
 [website]: https://frinzeworkspace.github.io/my-portfolio/
