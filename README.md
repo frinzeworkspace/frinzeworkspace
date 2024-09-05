@@ -36,10 +36,7 @@ I'm an independent full-stack developer and a business owner, shaping my digital
 #
 <details>
  <summary><h3>👨‍💻 Frinze's Coding Journey</h3></summary>
-   I'm Frinze, a computer science student who embarked on a transformative journey from the halls of academia to the dynamic realm of web development. My educational voyage, anchored at St. Clare College of Caloocan, has been a steady progression toward mastering the intricacies of the digital landscape.
-Having transitioned from a dedicated student to a budding web developer, my focus is on the MERN stack, where each line of code is a brushstroke in the canvas of my evolving skill set. The classroom theories have seamlessly blended with hands-on experiences, shaping me into a full-fledged developer in the making.
-Before delving into the intricacies of web development, I navigated the challenges of the professional world as a customer representative at iQor. This experience not only fine-tuned my communication skills but also sparked a passion for problem-solving that I now apply to coding challenges.
-As I continue my ascent in the world of web development, I remain a perpetual learner, embracing each project as an opportunity to refine my craft. Excited about the future, I am Frinze—a name not just associated with the classroom but also with the lines of code that contribute to the ever-evolving landscape of web development.
+   Hello 
 
 [website]: https://frinzeworkspace.github.io/my-portfolio/
 [linkedIn]: https://www.linkedin.com/in/frinze/
