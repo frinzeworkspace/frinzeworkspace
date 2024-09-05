@@ -28,11 +28,11 @@ I'm an independent full-stack developer and a business owner, shaping my digital
 
 
 ### 📊 Stats 
--->
+
 ![Frinze's GitHub stats](https://github-readme-stats.vercel.app/api?username=frinzeworkspace&show_icons=true&theme=gruvbox)
 
-#
-<!--
+#-->
+
 <details>
  <summary><h3>👨‍💻 Frinze's Coding Journey</h3></summary>
    I'm Frinze, a computer science student who embarked on a transformative journey from the halls of academia to the dynamic realm of web development. My educational voyage, anchored at St. Clare College of Caloocan, has been a steady progression toward mastering the intricacies of the digital landscape.
@@ -42,4 +42,4 @@ As I continue my ascent in the world of web development, I remain a perpetual le
 
 [website]: https://frinzeworkspace.github.io/my-portfolio/
 [linkedIn]: https://www.linkedin.com/in/frinze/
--->
+
