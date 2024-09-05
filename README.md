@@ -40,15 +40,17 @@ I'm an independent full-stack developer and a business owner, shaping my digital
  
  #
  
-<br />
-I work with these technologies:
+<br /> 
+
+#
+
 <br />
 
  #
  
 <br />
  
-
+I work with these technologies:
  
 <div>
  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
