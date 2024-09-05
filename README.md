@@ -36,7 +36,7 @@ I'm an independent full-stack developer and a business owner, shaping my digital
 #
 <details>
  <summary><h3>👨‍💻 Frinze </h3></summary>
- I put some of my projects here
+ Hi, I put some of my projects here.
  
 <br />
 
