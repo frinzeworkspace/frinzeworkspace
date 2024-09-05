@@ -30,8 +30,8 @@ I'm an independent full-stack developer and a business owner, shaping my digital
 ### 📊 Stats 
 
 ![Frinze's GitHub stats](https://github-readme-stats.vercel.app/api?username=frinzeworkspace&show_icons=true&theme=gruvbox)
-
-#-->
+-->
+#
 
 <details>
  <summary><h3>👨‍💻 Frinze's Coding Journey</h3></summary>
