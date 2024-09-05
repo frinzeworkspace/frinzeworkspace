@@ -38,7 +38,7 @@ I'm an independent full-stack developer and a business owner, shaping my digital
  <summary><h3>👨‍💻 Frinze </h3></summary>
  Hi, I am frinze welcome to my guthub repo 
 <br />
-Technologies:
+I work with these tech stack:
 <br />
 <br />
 <div>
