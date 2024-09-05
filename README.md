@@ -36,7 +36,7 @@ I'm an independent full-stack developer and a business owner, shaping my digital
 #
 <details>
  <summary><h3>👨‍💻 Frinze's Coding Journey</h3></summary>
-   Hello 
+   Hi I am frinze welcome to my guthub repo 
 
 [website]: https://frinzeworkspace.github.io/my-portfolio/
 [linkedIn]: https://www.linkedin.com/in/frinze/
