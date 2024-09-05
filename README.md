@@ -37,7 +37,10 @@ I'm an independent full-stack developer and a business owner, shaping my digital
 <details>
  <summary><h3>👨‍💻 Frinze </h3></summary>
  Hi, I am frinze welcome to my guthub repo 
-
+<br />
+Technologies:
+<br />
+<br />
 <div>
  <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
