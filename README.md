@@ -36,7 +36,7 @@ I'm an independent full-stack developer and a business owner, shaping my digital
 #
 #
 #
-# <small align="center">This text is centered</small>
+# <small>This text is centered</small>
 #
 #
 #
