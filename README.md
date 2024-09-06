@@ -36,7 +36,12 @@ I'm an independent full-stack developer and a business owner, shaping my digital
 #
 #
 #
-# <code>hello</code>
+# <div style="display: flex; justify-content: center; align-items: center; height: 100px;">
+  <div style="font-size: 4px;">
+    <code>This text is small, styled like code, and centered using Flexbox</code>
+  </div>
+</div>
+
 #
 #
 #
