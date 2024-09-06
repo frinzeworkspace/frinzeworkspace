@@ -31,7 +31,7 @@ I'm an independent full-stack developer and a business owner, shaping my digital
 
 ![Frinze's GitHub stats](https://github-readme-stats.vercel.app/api?username=frinzeworkspace&show_icons=true&theme=gruvbox)
 -->
-#
+
 #
 #
 #
